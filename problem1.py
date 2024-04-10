@@ -21,3 +21,6 @@ Enter your income: 125000
 Your federal income tax is: 24411.7
 
 '''
+X = int(input(""))
+if ():
+    
